@@ -1,4 +1,4 @@
-const token = 'a768bfd7cbd7b8f78dd1e346ad4285f3121c4b5a';
+const token = 'not putting this in a public place';
 fetch('https://api.github.com/Carpe-Omnia/repos', {
   headers: {
     Authorization: `token ${token}`
